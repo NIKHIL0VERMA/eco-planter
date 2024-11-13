@@ -44,7 +44,7 @@ To get started with Eco Planter, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/nikhil0verma/eco-planter.git
+   git clone git@github.com:NIKHIL0VERMA/eco-planter.git
    ```
 
 2. **Navigate to the Project Directory**:
@@ -64,6 +64,10 @@ To get started with Eco Planter, follow these steps:
 
 5. **Open in Browser**:
    Navigate to `http://localhost:5173` in your web browser.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](/LICENSE) file for details.
 
 ## Conclusion
 
