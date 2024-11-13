@@ -1,5 +1,7 @@
 # Eco Planter
 
+#### [Live Preview](https://eco-planter.vercel.app/)
+
 ## Introduction
 
 I build this for my brother's School project name Eco Planter.
